@@ -2,7 +2,7 @@
 
 package Archive::TAP::Peek;
 {
-  $Archive::TAP::Peek::VERSION = '0.001';
+  $Archive::TAP::Peek::VERSION = '0.002';
 }
 
 use strict;
@@ -100,7 +100,7 @@ Archive::TAP::Peek - Look into TAP-Archives
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
@@ -116,7 +116,9 @@ version 0.001
 
 =head1 ABOUT
 
-This modul can be of help for you if you have TAP archives (e.g. created with C<prove -a> and now you wish to know something about the outcomes of the test-results inside the archive.
+This is a software library for the I<perl programming language>.
+
+The modul can be of help for you if you have TAP archives (e.g. created with C<prove -a> and now you wish to know something about the outcomes of the test-results inside the archive.
 
 =head1 METHODS
 
